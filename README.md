@@ -21,7 +21,7 @@ Aplicativo Java para visualização e análise de dados de planilhas Excel com i
 ## Instalação
 
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone https://github.com/gazera3/WIP-Grafico-Create
 cd planilhas
 mvn clean install
 ```
